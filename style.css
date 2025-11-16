@@ -13,6 +13,9 @@ body {
     rgb(197, 149, 236),
     rgb(201, 163, 209)
   );
+  /* background-image: url('wall.jpg');
+  background-position: center;
+  background-size: cover; */
 }
 .container {
   height: 300px;
